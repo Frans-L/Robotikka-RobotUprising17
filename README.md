@@ -14,23 +14,15 @@ The Robot Uprising 2017 was a 48h hackathon. Each team had a Lego Mindstorms NXT
 * **Markku L** - robot designer & builder
 * **Olli L** - robot designer & builder
 
-## Code
 
-The robot was coded with NXC.
-
-[Bricxcc:](http://bricxcc.sourceforge.net/nbc/)
-> Not eXactly C (NXC) is a high level language, similar to C, built on top of the NBC compiler.
-> Next Byte Codes (NBC) is a simple language with an assembly language syntax that can be used to program LEGO's NXT programmable brick (from the new LEGO Mindstorms NXT set).
-
-
-### Structure:
+## Structure:
 
 * **Robotikka_AI.c**
     * It's the brain of the robot. It solves some challengess automatically by using its sensors.
 * **BluetoothController.c** 
     * It's code to remote control the robot. Robotikka_AI will stop running when BluetoothController sends orders over bluetooth.
 
-### Requirements: 
+## Requirements: 
 
 * BricxCC
 * NXT Firmware 1.31 
