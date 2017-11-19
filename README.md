@@ -23,7 +23,14 @@ The robot was coded with NXC.
 > Next Byte Codes (NBC) is a simple language with an assembly language syntax that can be used to program LEGO's NXT programmable brick (from the new LEGO Mindstorms NXT set).
 
 
-Requirements to run code: 
+Structure:
+
+* **Robotikka_AI.c**
+    * It's the brain of the robot. It solves some challenges completely automated.
+* **BluetoothController.c** 
+    * It's code to remote control the robot. Robotikka_AI will stop running when BluetoothController sends orders over bluetooth.
+
+Requirements: 
 
 * BricxCC
 * NXT Firmware 1.31 
