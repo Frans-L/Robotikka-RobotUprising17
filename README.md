@@ -11,7 +11,7 @@ The Robot Uprising 2017 was a 48h hackathon. Each team had a Lego Mindstorms NXT
 * **Robotikka_AI.c**
     * It's the brain of the robot. It solves some challengess automatically by using its sensors.
 * **BluetoothController.c** 
-    * It remote controls the robot. Robotikka_AI will stop running when BluetoothController sends orders over bluetooth.
+    * Remote controller of the robot. Robotikka_AI will stop running when BluetoothController sends orders over bluetooth.
 
 ## Requirements:
 
