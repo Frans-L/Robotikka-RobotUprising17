@@ -1,6 +1,6 @@
 # Robotikka Team - Robot Uprising 17 - Hackathon 
 
-The source code of team Robotikka's robot. The Robot Uprising is 48h hackathon, in which teams have to build and code a robot that solves a twisted race track. Team Robotikka achieved the 1st place.
+The source code of the winning robot in Robot Uprising 17. Robot Uprising is 48h hackathon, in which teams have to build and code a robot that solves a twisted race track. 
 
 ## Description
 
