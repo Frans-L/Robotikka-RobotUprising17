@@ -9,7 +9,7 @@ The Robot Uprising 2017 was a 48h hackathon. Each team had a Lego Mindstorms NXT
 ## Structure
 
 * **Robotikka_AI.c**
-    * It's the brain of the robot. It solves some challengess automatically by using its sensors.
+    * It's the brain of the robot. It solves some challenges automatically by using its sensors.
 * **BluetoothController.c** 
     * Remote controller of the robot. Robotikka_AI will stop running when BluetoothController sends orders over bluetooth.
 
@@ -25,8 +25,8 @@ The Robot Uprising 2017 was a 48h hackathon. Each team had a Lego Mindstorms NXT
 
 ## Team
 
-* **Frans L** - coder - [Frans-L](https://github.com/Frans-L)
-* **Henry P** - coder & robot builder - [Zwenkka](https://github.com/Zwenkka)
+* **Frans L** - programmer - [Frans-L](https://github.com/Frans-L)
+* **Henry P** - programmer & robot builder - [Zwenkka](https://github.com/Zwenkka)
 * **Pekka P** - robot designer & builder
 * **Markku L** - robot designer & builder
 * **Olli L** - robot designer & builder
