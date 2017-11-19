@@ -26,7 +26,7 @@ The robot was coded with NXC.
 ### Structure:
 
 * **Robotikka_AI.c**
-    * It's the brain of the robot. It solves some challenges completely automated.
+    * It's the brain of the robot. It solves some challengess automatically by using its sensors.
 * **BluetoothController.c** 
     * It's code to remote control the robot. Robotikka_AI will stop running when BluetoothController sends orders over bluetooth.
 
