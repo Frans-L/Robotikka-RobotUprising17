@@ -4,7 +4,7 @@ The source code of the winning robot in Robot Uprising 17. Robot Uprising is Fin
 
 ## Description
 
-The Robot Uprising 2017 is a 48h hackathon. Each team had a Lego Mindstorms NXT 2.0 kit. An idea was to build a robot that can solve various challenges. Points were given by speed, automation, result, and sneakiness. In total, there were 20 teams. Our team achieved the 1st place with points 54.5p / 57p. More information about the hackathon can be found [robotuprising.fi](http://robotuprising.fi/).
+The Robot Uprising 2017 was a 48h hackathon. Each team had a Lego Mindstorms NXT 2.0 kit. An idea was to build a robot that can solve various challenges. Points were given by speed, automation, result, and sneakiness. In total, there were 20 teams. Our team achieved the 1st place with points 54.5p / 57p. More information about the hackathon can be found [robotuprising.fi](http://robotuprising.fi/).
 
 ## Structure
 
